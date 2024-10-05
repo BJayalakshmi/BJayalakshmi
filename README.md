@@ -1,5 +1,5 @@
 ## Hi I'm Jayalakshmi
-![profile](https://github.com/user-attachments/assets/cba976c1-2153-4d89-8941-0e0e84b1fcb4)
+<background img src='![profile](https://github.com/user-attachments/assets/cba976c1-2153-4d89-8941-0e0e84b1fcb4)'>
 
 <!--
 **BJayalakshmi/BJayalakshmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
