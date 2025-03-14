@@ -4,16 +4,19 @@
 </div>-->
 <!--![Background](https://i.pinimg.com/1200x/57/46/8d/57468d8387042651790a73ade6a0d224.jpg)  
 <img src="https://i.pinimg.com/1200x/57/46/8d/57468d8387042651790a73ade6a0d224.jpg" width="100%" height="auto">   -->
-<div style="position: relative; width: 100%; text-align: center;">
-    <img src="https://i.pinimg.com/1200x/57/46/8d/57468d8387042651790a73ade6a0d224.jpg" width="100%" height="auto">
-    <h1 style="position: absolute; top: 20%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3em; background: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 10px;">
-      Hi I'm Jayalakshmi<b>  
+<table width="100%" height="400" style="background: url('https://i.pinimg.com/1200x/57/46/8d/57468d8387042651790a73ade6a0d224.jpg') center/cover no-repeat;">
+  <tr>
+    <td align="center" style="color: white; font-size: 30px; font-weight: bold; background: rgba(0, 0, 0, 0.5); padding: 20px;">
       Welcome to My GitHub Profile
-    </h1>
-    <p style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1.5em; background: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 10px;">
-     <!--   Software Developer | Open Source Enthusiast | Tech Innovator   -->
-    </p>
-</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="color: white; font-size: 20px; background: rgba(0, 0, 0, 0.5); padding: 10px;">
+      🚀 Software Developer | Open Source Contributor | Tech Enthusiast
+    </td>
+  </tr>
+</table>
+
 
 
 
