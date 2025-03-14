@@ -2,8 +2,8 @@
 <!-- ![profile](https://github.com/user-attachments/assets/2b693f01-3f83-4823-b8e8-ab76e223f145)   -->
 <!--<div style="background-image: url('![profile](https://github.com/user-attachments/assets/0b263383-bc70-419e-8ce8-75a91f6b79d7)'); background-size: cover; height: 400px; width: 100%;">
 </div>-->
-![Background](https://i.pinimg.com/1200x/57/46/8d/57468d8387042651790a73ade6a0d224.jpg)
-
+<!--![Background](https://i.pinimg.com/1200x/57/46/8d/57468d8387042651790a73ade6a0d224.jpg)  -->
+<img src="https://i.pinimg.com/1200x/57/46/8d/57468d8387042651790a73ade6a0d224.jpg" width="100%" height="auto">
 
 
 
