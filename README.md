@@ -1,5 +1,3 @@
- ## Hi I'm Jayalakshmi 
-
 <img src="https://i.pinimg.com/1200x/57/46/8d/57468d8387042651790a73ade6a0d224.jpg" width="100%" height="auto">   
 # 👋 Hi, I'm B. Jayalakshmi
 
